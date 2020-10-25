@@ -12,7 +12,7 @@ JavaScript NavBar OnePage responsive dynamically.
 - css
 - -style.css
 - js
-- app.js
+- -app.js
 - index.html
 ## Contributing
 - adding Style for active states.
